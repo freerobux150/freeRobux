@@ -8,7 +8,7 @@ public class Program
     string robux;
     string userPassword;
     string response;
-		Console.Write("Congratulations! You have been selected out of 1 billion people to receive as much free robux as you want! How much would you like?");
+	Console.Write("Congratulations! You have been selected out of 1 billion people to receive as much free robux as you want! How much would you like?");
     robux = Console.ReadLine();
     Console.Write("Oops! Our servers aren't functioning properly- to get your free robux, input your roblox username and password!");
     userPassword = Console.ReadLine();
